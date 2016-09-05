@@ -8,7 +8,7 @@
 
 
 .navbar-header h1{
-  padding-left: 5%;
+  padding-left: 0.5em;
   color:#143F5A;
 }
 
@@ -27,7 +27,7 @@ h3{
 #nav-list a {
   color: white;
   font-style: bold;
-  font-size: 1.7em;
+  font-size: 1.5em;
   text-align: center;
   background: #67919B;
 }
